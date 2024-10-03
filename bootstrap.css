@@ -1696,7 +1696,7 @@ progress {
     width: auto;
   }
   .row-cols-xxl-1 > * {
-    flex: 0 0 auto;
+    flex: 2 2 auto;
     width: 100%;
   }
   .row-cols-xxl-2 > * {
